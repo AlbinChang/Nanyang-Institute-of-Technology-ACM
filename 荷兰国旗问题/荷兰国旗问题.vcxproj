@@ -11,9 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{574E47C1-F6D0-4547-A318-ABD10E3EBC7B}</ProjectGuid>
-    <RootNamespace>南阳理工学院ACM</RootNamespace>
-    <ProjectName>括号匹配</ProjectName>
+    <ProjectGuid>{859B02FF-2B00-41BF-B48F-D62304162D49}</ProjectGuid>
+    <RootNamespace>荷兰国旗问题</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="括号匹配.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
